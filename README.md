@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinemistoktas
-- 👀 I’m interested in computer programming and engineering.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software development and AI.
+- 🌱 I’m currently a senior Computer Engineering student.
 #- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> email: sinemis_toktas@outlook.com
+#- 📫 How to reach me -> email: sinemis_toktas@outlook.com
