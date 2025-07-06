@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sinemistoktas
 - 👀 I’m interested in software development and AI.
-- 🌱 I’m currently a senior Computer Engineering student in Istanbul, Turkey.
+- 🌱 I’m currently a senior Computer Engineering student from Istanbul, Turkey.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/sinemistoktas/)!
