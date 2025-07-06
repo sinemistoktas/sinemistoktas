@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sinemistoktas
 - 👀 I’m interested in software development and AI.
-- 🌱 I’m currently a senior Computer Engineering student.
-- 📫 How to reach me -> email: stoktas20+github@ku.edu.tr
+- 🌱 I’m currently a senior Computer Engineering student in Istanbul, Turkey.
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/sinemistoktas/)!
